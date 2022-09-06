@@ -20,7 +20,7 @@ You can compare the results with this website: https://phl.upr.edu/projects/habi
 
 ### Installation and setup
 
-1. You need an IDE (VS Code, Pycharm, WebStorm, ...) that is compatible with HTML, CSS and Js to be able to run this code
+1. You need an IDE (VS Code, ...) that is compatible with JavaScript, nodeJs to be able to run this code
 2. Clone this repository and import it into your IDE
 
 ### Run
